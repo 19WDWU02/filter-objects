@@ -1,2 +1,2 @@
 # filter-objects
-function with parameters
+using function parameters
