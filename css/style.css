@@ -12,11 +12,15 @@ body{
 }*/
 
 .nav-item{
-	margin:auto 100px ;
+	margin:auto 15% ;
+}
+.navrow{
+	margin:auto;
 }
 
 .course{
 	margin-right: 80px;
+	margin-bottom: 30px;
 
 }
 #course-details{
@@ -28,7 +32,6 @@ body{
 	margin-top : 50px;
 }
 .logo{
-	width: 150px;
-	height: 100px;
-
+	width: 80px;
+	
 }
